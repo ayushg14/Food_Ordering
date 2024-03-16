@@ -1,0 +1,31 @@
+{
+  "name": "food-ordering",
+  "version": "1.0.0",
+  "description": "Food_Ordering_Website",
+  "main": "app.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayushg14/Food_Ordering.git"
+  },
+  "keywords": [
+    "food-ordering-website"
+  ],
+  "author": "Ayush",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayushg14/Food_Ordering/issues"
+  },
+  "homepage": "https://github.com/ayushg14/Food_Ordering#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
